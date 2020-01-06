@@ -1,2 +1,2 @@
-# PAT
-PAT Practice
+# OJ-Practice
+OJ Practice
