@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//PIPI´òÂé½« 
+//PIPIæ‰“éº»å°† 
 int calc(int x){
 	if(x == 5) return 8000; 
 	else if(x < 8) return 12000;

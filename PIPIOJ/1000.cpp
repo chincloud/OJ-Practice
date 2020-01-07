@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//»ØÎÄ´®ÎÊÌâ
+//å›æ–‡ä¸²é—®é¢˜
 char str[100];
 int len;
 
