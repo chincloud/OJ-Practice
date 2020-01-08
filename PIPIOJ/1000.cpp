@@ -10,12 +10,12 @@ bool isHuiWen(){
 		if(str[j] != str[len-j-1]){
 			return false;
 		}
-	}	
+	}
 	return true;
-}  
+}
 
 int main(){
-	
+
 	int i=0;
 	while(scanf("%s",str)){
 		len=0;
@@ -26,6 +26,6 @@ int main(){
 			len++;
 		}
 		printf("case%d: %s\n", ++i, isHuiWen()?"yes":"no");
-	} 
+	}
 	return 0;
-} 
+}
